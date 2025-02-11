@@ -46,7 +46,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework_simplejwt',
 
-    'rest_framework.authtoken', # Adding token based authentication from drf
+    'rest_framework.authtoken', # Adding token based authentication from drft
     'social_django', # Python social auth django app
 ]
 
