@@ -81,9 +81,6 @@ DevFinder's frontend should be up and running on port 5173
   ![](https://github.com/atharvabhide/DevFinder/blob/dev/backend/gif.gif)
 
 
-## Authors
-
-- K.J.Charith[@charith3426]
 
 
 
